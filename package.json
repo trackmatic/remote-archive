@@ -5,7 +5,10 @@
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "^4.10.2",
-    "when": "^3.7.3",
+    "fs": "0.0.2",
+    "ftp": "^0.3.10",
+    "node-uuid": "^1.4.7",
+    "when": "^3.7.5",
     "winston": "^1.0.1"
   }
 }
