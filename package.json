@@ -1,0 +1,11 @@
+{
+  "name": "trackmatic-archive",
+  "version": "0.0.1",
+  "description": "Trackmatic File Archive Service",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.10.2",
+    "when": "^3.7.3",
+    "winston": "^1.0.1"
+  }
+}
